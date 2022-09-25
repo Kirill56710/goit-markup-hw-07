@@ -1,1 +1,1 @@
-https://kirill56710.github.io/goit-markup-hw-06/
+https://kirill56710.github.io/goit-markup-hw-07/
